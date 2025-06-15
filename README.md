@@ -1,23 +1,25 @@
-# Week 1: ChatGPT Clone
+# 🧠 ChatGPT Clone using Streamlit
 
-This is my first Generative AI project in a 6-month journey to become a Generative AI Engineer.  
-It uses the OpenAI API and Streamlit to create a simple ChatGPT-style interface.
-
-## 🔧 Tools Used
-- Python 🐍
-- OpenAI API 💬
-- Streamlit 🎛️
-- GitHub 🚀
-
-## 📌 Goals
-- Learn how to call GPT using Python
-- Create a user-friendly chat UI
-- Share weekly progress
-
-## 📷 Preview
-(Coming Soon: Screenshot of my app)
+A simple chatbot UI made using **Streamlit**.  
+This is part of my Generative AI learning journey 💡.
 
 ---
 
-Follow my journey and stay tuned for more!  
-🔗 [My LinkedIn](www.linkedin.com/in/raghuramreddy-ai) | 💻 [My Portfolio](https://github.com)
+## 🚀 Features
+- 💬 Chat interface
+- 📦 Easy to run
+- 🧱 Simple design
+
+---
+
+## 📸 Screenshot
+
+![App Screenshot](assets/screenshot.png)
+
+---
+
+## 🛠️ How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
