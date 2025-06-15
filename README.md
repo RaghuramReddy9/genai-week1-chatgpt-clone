@@ -20,4 +20,4 @@ It uses the OpenAI API and Streamlit to create a simple ChatGPT-style interface.
 ---
 
 Follow my journey and stay tuned for more!  
-🔗 [My LinkedIn](https://linkedin.com) | 💻 [My Portfolio](https://github.com)
+🔗 [My LinkedIn](www.linkedin.com/in/raghuramreddy-ai) | 💻 [My Portfolio](https://github.com)
